@@ -8,23 +8,23 @@
 import Foundation
 
 struct AppModel: Decodable {
-    let id: String?
-    let name: String?
-    let description: String?
-    let isPremium: Bool?
-    let appStoreProductId: String?
-    let leadingImageUrl: String?
-    let backgroundImageUrl: String?
+    let id: String
+    let name: String
+    let description: String
+    let isPremium: Bool
+    var appStoreProductId: String?
+    let leadingImageUrl: String
+    var backgroundImageUrl: String?
     
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
-        id = try container.decode(String.self, forKey: .id) ?? ""
-        name = try container.decode(String.self, forKey: .name) ?? ""
-        description = try container.decode(String.self, forKey: .description) ?? ""
-        isPremium = try container.decode(Bool.self, forKey: .isPremium) ?? false
-        appStoreProductId = try container.decode(String.self, forKey: .appStoreProductId) ?? ""
-        leadingImageUrl = try container.decode(String.self, forKey: .leadingImageUrl) ?? ""
-        backgroundImageUrl = try container.decode(String.self, forKey: .backgroundImageUrl) ?? ""
+        id = try container.decodeIfPresent(String.self, forKey: .id) ?? ""
+        name = try container.decodeIfPresent(String.self, forKey: .name) ?? ""
+        description = try container.decodeIfPresent(String.self, forKey: .description) ?? ""
+        isPremium = try container.decodeIfPresent(Bool.self, forKey: .isPremium) ?? false
+        appStoreProductId = try container.decodeIfPresent(String.self, forKey: .appStoreProductId) ?? ""
+        leadingImageUrl = try container.decodeIfPresent(String.self, forKey: .leadingImageUrl) ?? ""
+        backgroundImageUrl = try container.decodeIfPresent(String.self, forKey: .backgroundImageUrl) ?? ""
     }
     
     enum CodingKeys: String, CodingKey {
