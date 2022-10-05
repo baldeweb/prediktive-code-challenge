@@ -2,16 +2,21 @@
 //  ViewController.swift
 //  prediktive-rouse-challenge
 //
-//  Created by Trabalho on 04/10/22.
+//  Created by Wallace Baldenebre on 04/10/22.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
+    private let viewModel = StoreViewModel()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        viewModel.getStore()
+        viewModel.storeResult = { (response) in
+            print("RESPONSE: \(response)")
+        }
     }
 
 

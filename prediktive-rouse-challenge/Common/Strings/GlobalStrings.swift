@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct GlobalStrings {
+    static let baseUrl = "https://www.jsonkeeper.com/b/K3WQ"
+}

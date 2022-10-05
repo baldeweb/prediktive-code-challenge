@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class BaseViewModel: NSObject {
+    let service = ServiceManager()
+}
