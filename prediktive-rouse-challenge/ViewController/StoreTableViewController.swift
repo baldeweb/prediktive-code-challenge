@@ -14,7 +14,12 @@ class StoreTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.tableView.register(UITableViewCell.self, forCellReuseIdentifier: "storeCell")
+        registerCustomCell()
+    }
+    
+    private func registerCustomCell() {
+        let cell = UINib(nibName: "StoreViewCellTableViewCell", bundle: nil)
+        self.tableView.register(cell, forCellReuseIdentifier: "StoreViewCellTableViewCell")
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
@@ -22,10 +27,11 @@ class StoreTableViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCell(withIdentifier: "storeCell", for: indexPath)
+        let cell = tableView.dequeueReusableCell(withIdentifier: "StoreViewCellTableViewCell", for: indexPath) as? StoreViewCellTableViewCell
         let item = listFree[indexPath.row]
-        cell.textLabel?.text = item.name
-        return cell
+        self.loadImageFromUrl(imageView: cell?.imgLeading, free: item)
+        cell?.lblName.text = item.name
+        return cell!
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -34,5 +40,15 @@ class StoreTableViewController: UITableViewController {
     
     override func numberOfSections(in tableView: UITableView) -> Int {
         return 1
+    }
+    
+    private func loadImageFromUrl(imageView: UIImageView?, free: AppModel) {
+        let url = URL(string: free.leadingImageUrl)
+        DispatchQueue.global(qos: .background).async {
+            let data = try? Data(contentsOf: url!)
+            DispatchQueue.main.async {
+                imageView?.image = UIImage(data: data!)
+            }
+        }
     }
 }
