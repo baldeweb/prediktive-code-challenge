@@ -14,10 +14,13 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     private var listFree: [AppModel] = []
     
     @IBOutlet weak var tableView: UITableView!
+    @IBOutlet weak var loading: UIActivityIndicatorView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        loading.isHidden = false
+        loading.startAnimating()
         viewModel.getStore()
         viewModel.storeResult = { (store) in
             self.listFree = store.payload.free
@@ -25,6 +28,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             
             DispatchQueue.main.async {
                 self.tableView.reloadData()
+                self.loading.stopAnimating()
+                self.loading.isHidden = true
             }
         }
         

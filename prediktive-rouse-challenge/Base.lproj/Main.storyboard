@@ -34,6 +34,10 @@
                                     <outlet property="delegate" destination="BYZ-38-t0r" id="QX9-4Y-3LJ"/>
                                 </connections>
                             </tableView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="medium" id="nU4-bS-kjs">
+                                <rect key="frame" x="0.0" y="400" width="390" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </activityIndicatorView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -45,6 +49,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="loading" destination="nU4-bS-kjs" id="Klp-aJ-tRZ"/>
                         <outlet property="tableView" destination="2H9-gX-uJh" id="9lL-FD-SwG"/>
                     </connections>
                 </viewController>
