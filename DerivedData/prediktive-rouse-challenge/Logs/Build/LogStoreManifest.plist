@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>01EE419D-2BE2-4F57-AFCB-625AEECFD5C9</key>
+		<key>1BEB2125-068B-4B03-B52F-454AD68B0356</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>01EE419D-2BE2-4F57-AFCB-625AEECFD5C9.xcactivitylog</string>
+			<string>1BEB2125-068B-4B03-B52F-454AD68B0356.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686632314.15971005</real>
+			<real>686801551.07834804</real>
 			<key>timeStoppedRecording</key>
-			<real>686632315.11576498</real>
+			<real>686801552.93495095</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>01EE419D-2BE2-4F57-AFCB-625AEECFD5C9</string>
+			<string>1BEB2125-068B-4B03-B52F-454AD68B0356</string>
 		</dict>
-		<key>0695DB83-3BEF-4336-9B50-38E46571C419</key>
+		<key>1DFE6EB0-430A-45A2-893F-8378F3A659D1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0695DB83-3BEF-4336-9B50-38E46571C419.xcactivitylog</string>
+			<string>1DFE6EB0-430A-45A2-893F-8378F3A659D1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686684116.85014904</real>
+			<real>686800617.83868206</real>
 			<key>timeStoppedRecording</key>
-			<real>686684118.09126306</real>
+			<real>686800622.105268</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>0695DB83-3BEF-4336-9B50-38E46571C419</string>
+			<string>1DFE6EB0-430A-45A2-893F-8378F3A659D1</string>
 		</dict>
-		<key>075DD4EB-89F1-4F77-B8CA-41601E898C0E</key>
+		<key>27C6E44E-5DDF-464F-A246-1C1E68BDA197</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,109 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>075DD4EB-89F1-4F77-B8CA-41601E898C0E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677986.46495903</real>
-			<key>timeStoppedRecording</key>
-			<real>686677987.09949195</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>075DD4EB-89F1-4F77-B8CA-41601E898C0E</string>
-		</dict>
-		<key>09F21E6B-A4F6-4540-A473-933D22F3AA89</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>09F21E6B-A4F6-4540-A473-933D22F3AA89.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686684050.94326794</real>
-			<key>timeStoppedRecording</key>
-			<real>686684052.23171997</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>09F21E6B-A4F6-4540-A473-933D22F3AA89</string>
-		</dict>
-		<key>0C3E1936-66B3-4CDF-AA85-44A7BD3E294F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0C3E1936-66B3-4CDF-AA85-44A7BD3E294F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683616.31092203</real>
-			<key>timeStoppedRecording</key>
-			<real>686683618.03244102</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>0C3E1936-66B3-4CDF-AA85-44A7BD3E294F</string>
-		</dict>
-		<key>0C58837E-8AA2-4E44-961B-C2E15DC97656</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0C58837E-8AA2-4E44-961B-C2E15DC97656.xcactivitylog</string>
+			<string>27C6E44E-5DDF-464F-A246-1C1E68BDA197.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +100,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686678575.92137897</real>
+			<real>686801284.71739101</real>
 			<key>timeStoppedRecording</key>
-			<real>686678576.51589</real>
+			<real>686801286.26858401</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>0C58837E-8AA2-4E44-961B-C2E15DC97656</string>
+			<string>27C6E44E-5DDF-464F-A246-1C1E68BDA197</string>
 		</dict>
-		<key>0C937C00-90D6-471E-AD94-E4D8251BD461</key>
+		<key>2BC2B3DB-660A-4C39-86F3-4618191EAD10</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -219,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0C937C00-90D6-471E-AD94-E4D8251BD461.xcactivitylog</string>
+			<string>2BC2B3DB-660A-4C39-86F3-4618191EAD10.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +134,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686684289.83180702</real>
+			<real>686801588.09821296</real>
 			<key>timeStoppedRecording</key>
-			<real>686684291.06812</real>
+			<real>686801589.634884</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>0C937C00-90D6-471E-AD94-E4D8251BD461</string>
+			<string>2BC2B3DB-660A-4C39-86F3-4618191EAD10</string>
 		</dict>
-		<key>1A4C9E49-4E5B-4060-9567-0F6572FB2EE8</key>
+		<key>37E151A1-8A35-4519-A06C-2B533823A351</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,7 +151,245 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1A4C9E49-4E5B-4060-9567-0F6572FB2EE8.xcactivitylog</string>
+			<string>37E151A1-8A35-4519-A06C-2B533823A351.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686800965.95844102</real>
+			<key>timeStoppedRecording</key>
+			<real>686800967.70957804</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>37E151A1-8A35-4519-A06C-2B533823A351</string>
+		</dict>
+		<key>4CEE782C-733A-444D-8853-CE70C8C5AE1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CEE782C-733A-444D-8853-CE70C8C5AE1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686801603.29527903</real>
+			<key>timeStoppedRecording</key>
+			<real>686801604.79441404</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>4CEE782C-733A-444D-8853-CE70C8C5AE1A</string>
+		</dict>
+		<key>57CFE469-9731-413B-AE82-49A1590A489B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57CFE469-9731-413B-AE82-49A1590A489B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686801340.90270102</real>
+			<key>timeStoppedRecording</key>
+			<real>686801341.13394904</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>57CFE469-9731-413B-AE82-49A1590A489B</string>
+		</dict>
+		<key>6B5B3275-0B11-4C1E-89A3-51B6941DFD0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B5B3275-0B11-4C1E-89A3-51B6941DFD0D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686800000.29844904</real>
+			<key>timeStoppedRecording</key>
+			<real>686800005.59449601</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>6B5B3275-0B11-4C1E-89A3-51B6941DFD0D</string>
+		</dict>
+		<key>83014B2D-D283-47E4-BFA3-23D96B3C0EA4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83014B2D-D283-47E4-BFA3-23D96B3C0EA4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686800768.69059396</real>
+			<key>timeStoppedRecording</key>
+			<real>686800773.92070699</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>83014B2D-D283-47E4-BFA3-23D96B3C0EA4</string>
+		</dict>
+		<key>8EBAE108-E166-4A39-9033-8A9CBF3D1BBE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8EBAE108-E166-4A39-9033-8A9CBF3D1BBE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686801374.71006596</real>
+			<key>timeStoppedRecording</key>
+			<real>686801376.00534105</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>8EBAE108-E166-4A39-9033-8A9CBF3D1BBE</string>
+		</dict>
+		<key>9A0B51FC-FF48-4B4E-9C6F-9CB13755E997</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A0B51FC-FF48-4B4E-9C6F-9CB13755E997.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>prediktive-rouse-challenge project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>prediktive-rouse-challenge</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>timeStartedRecording</key>
+			<real>686801057.77772605</real>
+			<key>timeStoppedRecording</key>
+			<real>686801057.98233998</real>
+			<key>title</key>
+			<string>Build prediktive-rouse-challenge</string>
+			<key>uniqueIdentifier</key>
+			<string>9A0B51FC-FF48-4B4E-9C6F-9CB13755E997</string>
+		</dict>
+		<key>9A9E1ACC-275D-478F-AA10-3387DCB13C0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A9E1ACC-275D-478F-AA10-3387DCB13C0B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +406,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686676704.05328596</real>
+			<real>686719315.94222605</real>
 			<key>timeStoppedRecording</key>
-			<real>686676704.70346999</real>
+			<real>686719317.02849996</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>1A4C9E49-4E5B-4060-9567-0F6572FB2EE8</string>
+			<string>9A9E1ACC-275D-478F-AA10-3387DCB13C0B</string>
 		</dict>
-		<key>1DEBC0F9-581F-4B95-A35C-79183A2F782C</key>
+		<key>9EC364C1-FF62-4C11-B06A-C4C4EA79883F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -287,75 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1DEBC0F9-581F-4B95-A35C-79183A2F782C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686631810.18298304</real>
-			<key>timeStoppedRecording</key>
-			<real>686631810.68111002</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>1DEBC0F9-581F-4B95-A35C-79183A2F782C</string>
-		</dict>
-		<key>20B4BD0D-6F85-427C-AE7D-167D7387C50A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>20B4BD0D-6F85-427C-AE7D-167D7387C50A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686630592.42939401</real>
-			<key>timeStoppedRecording</key>
-			<real>686630604.46623504</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>20B4BD0D-6F85-427C-AE7D-167D7387C50A</string>
-		</dict>
-		<key>23C66BF2-D3BD-4EE8-B811-21142F2E88EB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>23C66BF2-D3BD-4EE8-B811-21142F2E88EB.xcactivitylog</string>
+			<string>9EC364C1-FF62-4C11-B06A-C4C4EA79883F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,1271 +440,13 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686682442.168571</real>
+			<real>686801302.53453004</real>
 			<key>timeStoppedRecording</key>
-			<real>686682444.24707198</real>
+			<real>686801303.65976703</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>23C66BF2-D3BD-4EE8-B811-21142F2E88EB</string>
-		</dict>
-		<key>253483F8-68BE-4D52-91BA-6F9569F50E77</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>253483F8-68BE-4D52-91BA-6F9569F50E77.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632103.80900598</real>
-			<key>timeStoppedRecording</key>
-			<real>686632104.26663601</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>253483F8-68BE-4D52-91BA-6F9569F50E77</string>
-		</dict>
-		<key>26BDCE0E-FD67-4571-A895-1CECA9553BCA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>26BDCE0E-FD67-4571-A895-1CECA9553BCA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678867.61410797</real>
-			<key>timeStoppedRecording</key>
-			<real>686678868.11673796</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>26BDCE0E-FD67-4571-A895-1CECA9553BCA</string>
-		</dict>
-		<key>29DF8D71-C8AA-4490-9845-577D75557357</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>29DF8D71-C8AA-4490-9845-577D75557357.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677846.60538197</real>
-			<key>timeStoppedRecording</key>
-			<real>686677847.67492902</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>29DF8D71-C8AA-4490-9845-577D75557357</string>
-		</dict>
-		<key>2A6F0853-7CA7-4103-BAD7-C2182422A8AE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2A6F0853-7CA7-4103-BAD7-C2182422A8AE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678896.18114305</real>
-			<key>timeStoppedRecording</key>
-			<real>686678896.63952506</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>2A6F0853-7CA7-4103-BAD7-C2182422A8AE</string>
-		</dict>
-		<key>2D252D0C-2C6C-47F4-B279-F6E6D9F8D3AB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2D252D0C-2C6C-47F4-B279-F6E6D9F8D3AB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682027.56658995</real>
-			<key>timeStoppedRecording</key>
-			<real>686682036.501495</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>2D252D0C-2C6C-47F4-B279-F6E6D9F8D3AB</string>
-		</dict>
-		<key>2D381115-AB4C-4434-A4CC-BE8446A930A7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2D381115-AB4C-4434-A4CC-BE8446A930A7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683842.78362501</real>
-			<key>timeStoppedRecording</key>
-			<real>686683843.39947605</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>2D381115-AB4C-4434-A4CC-BE8446A930A7</string>
-		</dict>
-		<key>2E3C7B07-2659-438B-8223-6C28AFD13F00</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2E3C7B07-2659-438B-8223-6C28AFD13F00.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686631968.84827304</real>
-			<key>timeStoppedRecording</key>
-			<real>686631968.92771101</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>2E3C7B07-2659-438B-8223-6C28AFD13F00</string>
-		</dict>
-		<key>38D68E95-9648-439F-8953-DA534514DEC0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>38D68E95-9648-439F-8953-DA534514DEC0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677906.57605195</real>
-			<key>timeStoppedRecording</key>
-			<real>686677907.66513002</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>38D68E95-9648-439F-8953-DA534514DEC0</string>
-		</dict>
-		<key>39E9365B-5A3E-4E4C-92B7-DFF15D83CC81</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>39E9365B-5A3E-4E4C-92B7-DFF15D83CC81.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676859.81443</real>
-			<key>timeStoppedRecording</key>
-			<real>686676860.29730797</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>39E9365B-5A3E-4E4C-92B7-DFF15D83CC81</string>
-		</dict>
-		<key>3CF5D77C-7C3C-4D17-A29D-24C26442CA43</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3CF5D77C-7C3C-4D17-A29D-24C26442CA43.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632222.08927298</real>
-			<key>timeStoppedRecording</key>
-			<real>686632223.08633995</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>3CF5D77C-7C3C-4D17-A29D-24C26442CA43</string>
-		</dict>
-		<key>3F86E331-79CF-4315-86F3-1BDEB80EE8C7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3F86E331-79CF-4315-86F3-1BDEB80EE8C7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686674301.83530903</real>
-			<key>timeStoppedRecording</key>
-			<real>686674302.28896499</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>3F86E331-79CF-4315-86F3-1BDEB80EE8C7</string>
-		</dict>
-		<key>4177BF4E-4179-4E53-9A1E-A911D67FD3FE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4177BF4E-4179-4E53-9A1E-A911D67FD3FE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686674329.94005203</real>
-			<key>timeStoppedRecording</key>
-			<real>686674330.60832405</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>4177BF4E-4179-4E53-9A1E-A911D67FD3FE</string>
-		</dict>
-		<key>42309415-1D04-4048-8028-6B7F8862565D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>42309415-1D04-4048-8028-6B7F8862565D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682142.03896701</real>
-			<key>timeStoppedRecording</key>
-			<real>686682142.50089502</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>42309415-1D04-4048-8028-6B7F8862565D</string>
-		</dict>
-		<key>471EC5A9-1D70-4451-9A5A-65BAB6D20954</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>471EC5A9-1D70-4451-9A5A-65BAB6D20954.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683685.37008202</real>
-			<key>timeStoppedRecording</key>
-			<real>686683686.78300297</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>471EC5A9-1D70-4451-9A5A-65BAB6D20954</string>
-		</dict>
-		<key>4B0AD985-C8B6-4B8D-B684-38917CD3FA77</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4B0AD985-C8B6-4B8D-B684-38917CD3FA77.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686674284.46225905</real>
-			<key>timeStoppedRecording</key>
-			<real>686674285.15555704</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>4B0AD985-C8B6-4B8D-B684-38917CD3FA77</string>
-		</dict>
-		<key>4D4C2A45-EB44-497A-B857-9E74921A21A8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4D4C2A45-EB44-497A-B857-9E74921A21A8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632094.29517496</real>
-			<key>timeStoppedRecording</key>
-			<real>686632094.70393801</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>4D4C2A45-EB44-497A-B857-9E74921A21A8</string>
-		</dict>
-		<key>555E395D-A3F3-4B5C-9619-4EA1ABCC2945</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>555E395D-A3F3-4B5C-9619-4EA1ABCC2945.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686684132.00362396</real>
-			<key>timeStoppedRecording</key>
-			<real>686684133.20991194</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>555E395D-A3F3-4B5C-9619-4EA1ABCC2945</string>
-		</dict>
-		<key>69C8C852-E577-4F01-A7A9-D29FF840914A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>69C8C852-E577-4F01-A7A9-D29FF840914A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678902.33135796</real>
-			<key>timeStoppedRecording</key>
-			<real>686678903.57844496</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>69C8C852-E577-4F01-A7A9-D29FF840914A</string>
-		</dict>
-		<key>6CF13C43-795C-44AE-9ED0-661068F4E46D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6CF13C43-795C-44AE-9ED0-661068F4E46D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678545.32848299</real>
-			<key>timeStoppedRecording</key>
-			<real>686678545.57353497</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>6CF13C43-795C-44AE-9ED0-661068F4E46D</string>
-		</dict>
-		<key>6EF286D4-1BC0-4CA9-B0F7-72F53C119AFE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6EF286D4-1BC0-4CA9-B0F7-72F53C119AFE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677959.50846601</real>
-			<key>timeStoppedRecording</key>
-			<real>686677960.59665096</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>6EF286D4-1BC0-4CA9-B0F7-72F53C119AFE</string>
-		</dict>
-		<key>6F5F156D-6DE7-442A-8BF3-E40936EA04FB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6F5F156D-6DE7-442A-8BF3-E40936EA04FB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678174.07818794</real>
-			<key>timeStoppedRecording</key>
-			<real>686678175.08991206</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>6F5F156D-6DE7-442A-8BF3-E40936EA04FB</string>
-		</dict>
-		<key>6FBBB2C7-30E5-4CA1-A7CE-DE468FCC5B28</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6FBBB2C7-30E5-4CA1-A7CE-DE468FCC5B28.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678853.053707</real>
-			<key>timeStoppedRecording</key>
-			<real>686678853.76955497</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>6FBBB2C7-30E5-4CA1-A7CE-DE468FCC5B28</string>
-		</dict>
-		<key>7744B5FD-0A58-4819-B26E-9F70D62E0D6A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7744B5FD-0A58-4819-B26E-9F70D62E0D6A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683852.30045295</real>
-			<key>timeStoppedRecording</key>
-			<real>686683853.65261698</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>7744B5FD-0A58-4819-B26E-9F70D62E0D6A</string>
-		</dict>
-		<key>77B85610-6B4F-4BB8-8494-B74F2C454CA1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>77B85610-6B4F-4BB8-8494-B74F2C454CA1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632082.08678603</real>
-			<key>timeStoppedRecording</key>
-			<real>686632082.58315897</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>77B85610-6B4F-4BB8-8494-B74F2C454CA1</string>
-		</dict>
-		<key>79028B95-64CF-4481-A1CF-0D4A61707F61</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>79028B95-64CF-4481-A1CF-0D4A61707F61.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676774.87919605</real>
-			<key>timeStoppedRecording</key>
-			<real>686676775.83715498</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>79028B95-64CF-4481-A1CF-0D4A61707F61</string>
-		</dict>
-		<key>8515BED6-6F00-4606-8390-2D9467E32AE5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8515BED6-6F00-4606-8390-2D9467E32AE5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686631409.49771798</real>
-			<key>timeStoppedRecording</key>
-			<real>686631410.67662299</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>8515BED6-6F00-4606-8390-2D9467E32AE5</string>
-		</dict>
-		<key>867C8248-106E-4093-A44D-6A6311C11D89</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>867C8248-106E-4093-A44D-6A6311C11D89.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686674342.34558296</real>
-			<key>timeStoppedRecording</key>
-			<real>686674342.74937606</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>867C8248-106E-4093-A44D-6A6311C11D89</string>
-		</dict>
-		<key>90FA50A8-1D53-422E-A788-6E254F653003</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>90FA50A8-1D53-422E-A788-6E254F653003.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686631857.31426799</real>
-			<key>timeStoppedRecording</key>
-			<real>686631858.21006</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>90FA50A8-1D53-422E-A788-6E254F653003</string>
-		</dict>
-		<key>928AA076-08CA-4F16-BBAB-513AC4A487D9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>928AA076-08CA-4F16-BBAB-513AC4A487D9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682077.26716602</real>
-			<key>timeStoppedRecording</key>
-			<real>686682078.92911994</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>928AA076-08CA-4F16-BBAB-513AC4A487D9</string>
-		</dict>
-		<key>93F6E1A2-BC86-4C42-9ECE-89BD3B8BBB82</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>93F6E1A2-BC86-4C42-9ECE-89BD3B8BBB82.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676962.75162494</real>
-			<key>timeStoppedRecording</key>
-			<real>686676963.27210104</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>93F6E1A2-BC86-4C42-9ECE-89BD3B8BBB82</string>
-		</dict>
-		<key>95E575C3-C86B-4D38-BAD5-5DB4A9AFE7F2</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>95E575C3-C86B-4D38-BAD5-5DB4A9AFE7F2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686673522.35966206</real>
-			<key>timeStoppedRecording</key>
-			<real>686673523.48323596</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>95E575C3-C86B-4D38-BAD5-5DB4A9AFE7F2</string>
-		</dict>
-		<key>9E0F9351-E707-46F3-B4C9-074B79B3FE62</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9E0F9351-E707-46F3-B4C9-074B79B3FE62.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677888.92997599</real>
-			<key>timeStoppedRecording</key>
-			<real>686677889.99961901</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>9E0F9351-E707-46F3-B4C9-074B79B3FE62</string>
-		</dict>
-		<key>9EDA6D23-EE87-486E-9099-92F1B415F129</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9EDA6D23-EE87-486E-9099-92F1B415F129.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678008.46151197</real>
-			<key>timeStoppedRecording</key>
-			<real>686678009.59197497</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>9EDA6D23-EE87-486E-9099-92F1B415F129</string>
-		</dict>
-		<key>A2464ACC-26A4-4ECB-9162-6D335912D05C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A2464ACC-26A4-4ECB-9162-6D335912D05C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682134.95417404</real>
-			<key>timeStoppedRecording</key>
-			<real>686682135.44068301</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>A2464ACC-26A4-4ECB-9162-6D335912D05C</string>
-		</dict>
-		<key>A35C3F86-68E5-4EF8-B9EE-1754DA3D752E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A35C3F86-68E5-4EF8-B9EE-1754DA3D752E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683838.17530298</real>
-			<key>timeStoppedRecording</key>
-			<real>686683839.00678694</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>A35C3F86-68E5-4EF8-B9EE-1754DA3D752E</string>
-		</dict>
-		<key>A5A77834-EFB9-43BD-AF8E-CC684050739F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A5A77834-EFB9-43BD-AF8E-CC684050739F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682127.17575705</real>
-			<key>timeStoppedRecording</key>
-			<real>686682127.88869095</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>A5A77834-EFB9-43BD-AF8E-CC684050739F</string>
-		</dict>
-		<key>A7EBF069-F15F-4350-83B0-65BB31B9A78C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A7EBF069-F15F-4350-83B0-65BB31B9A78C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686673395.49736798</real>
-			<key>timeStoppedRecording</key>
-			<real>686673403.56179094</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>A7EBF069-F15F-4350-83B0-65BB31B9A78C</string>
+			<string>9EC364C1-FF62-4C11-B06A-C4C4EA79883F</string>
 		</dict>
 		<key>A7EFF556-45B9-4CBA-85D5-FA6D09CA01ED</key>
 		<dict>
@@ -1672,7 +482,7 @@
 			<key>uniqueIdentifier</key>
 			<string>A7EFF556-45B9-4CBA-85D5-FA6D09CA01ED</string>
 		</dict>
-		<key>AB050899-5CC3-4893-A7E7-358773A0A608</key>
+		<key>AB7F6E06-F314-46ED-A25A-5ECA8525AE84</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1681,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AB050899-5CC3-4893-A7E7-358773A0A608.xcactivitylog</string>
+			<string>AB7F6E06-F314-46ED-A25A-5ECA8525AE84.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1698,15 +508,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686631916.38832998</real>
+			<real>686801424.00493896</real>
 			<key>timeStoppedRecording</key>
-			<real>686631916.60424399</real>
+			<real>686801424.23671198</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>AB050899-5CC3-4893-A7E7-358773A0A608</string>
+			<string>AB7F6E06-F314-46ED-A25A-5ECA8525AE84</string>
 		</dict>
-		<key>AD72E41A-2271-4145-AEAA-9D53CBF160AA</key>
+		<key>B444FF75-EDE5-4613-9DCE-1AF854166609</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1715,41 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AD72E41A-2271-4145-AEAA-9D53CBF160AA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686674296.49033296</real>
-			<key>timeStoppedRecording</key>
-			<real>686674296.99255395</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>AD72E41A-2271-4145-AEAA-9D53CBF160AA</string>
-		</dict>
-		<key>B11DED75-1D5F-4433-AF25-489FC4187CC0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B11DED75-1D5F-4433-AF25-489FC4187CC0.xcactivitylog</string>
+			<string>B444FF75-EDE5-4613-9DCE-1AF854166609.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1766,15 +542,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686631276.72752595</real>
+			<real>686801046.36731005</real>
 			<key>timeStoppedRecording</key>
-			<real>686631278.194484</real>
+			<real>686801048.91368401</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>B11DED75-1D5F-4433-AF25-489FC4187CC0</string>
+			<string>B444FF75-EDE5-4613-9DCE-1AF854166609</string>
 		</dict>
-		<key>B3087B71-E521-4B23-8CB0-A8D06E2C2832</key>
+		<key>B5E32F56-62F8-4064-BF3D-D8CEF925BB07</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1783,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B3087B71-E521-4B23-8CB0-A8D06E2C2832.xcactivitylog</string>
+			<string>B5E32F56-62F8-4064-BF3D-D8CEF925BB07.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1800,15 +576,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686631142.01073694</real>
+			<real>686719323.66924405</real>
 			<key>timeStoppedRecording</key>
-			<real>686631145.78479004</real>
+			<real>686719325.23025095</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>B3087B71-E521-4B23-8CB0-A8D06E2C2832</string>
+			<string>B5E32F56-62F8-4064-BF3D-D8CEF925BB07</string>
 		</dict>
-		<key>B6C4CC5A-715C-4810-8922-630FC88CE133</key>
+		<key>BD5FF717-610F-42B5-A421-D934DDA10951</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1817,41 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B6C4CC5A-715C-4810-8922-630FC88CE133.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686631796.40487695</real>
-			<key>timeStoppedRecording</key>
-			<real>686631797.07770896</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>B6C4CC5A-715C-4810-8922-630FC88CE133</string>
-		</dict>
-		<key>B806F440-DE51-4F34-972F-D50C38BD47F1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B806F440-DE51-4F34-972F-D50C38BD47F1.xcactivitylog</string>
+			<string>BD5FF717-610F-42B5-A421-D934DDA10951.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1868,15 +610,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686677830.24684894</real>
+			<real>686800799.94006503</real>
 			<key>timeStoppedRecording</key>
-			<real>686677831.38550794</real>
+			<real>686800801.28111398</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>B806F440-DE51-4F34-972F-D50C38BD47F1</string>
+			<string>BD5FF717-610F-42B5-A421-D934DDA10951</string>
 		</dict>
-		<key>BCFDB692-C0A2-4D99-8A00-E5C7140ED793</key>
+		<key>D283BBD3-3F6A-4E88-B27B-9F429877B07E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1885,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BCFDB692-C0A2-4D99-8A00-E5C7140ED793.xcactivitylog</string>
+			<string>D283BBD3-3F6A-4E88-B27B-9F429877B07E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1902,15 +644,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686631979.65120494</real>
+			<real>686719348.54917002</real>
 			<key>timeStoppedRecording</key>
-			<real>686631979.86006296</real>
+			<real>686719349.885149</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>BCFDB692-C0A2-4D99-8A00-E5C7140ED793</string>
+			<string>D283BBD3-3F6A-4E88-B27B-9F429877B07E</string>
 		</dict>
-		<key>BDE0289A-A7C2-4EB7-8088-995501BDD58F</key>
+		<key>F7DF5FF8-ADB1-4DF8-8CED-0E55CD89DD6F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1919,13 +661,13 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BDE0289A-A7C2-4EB7-8088-995501BDD58F.xcactivitylog</string>
+			<string>F7DF5FF8-ADB1-4DF8-8CED-0E55CD89DD6F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>prediktive-rouse-challenge project</string>
@@ -1936,15 +678,15 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686677778.70904505</real>
+			<real>686719376.95919597</real>
 			<key>timeStoppedRecording</key>
-			<real>686677779.31708896</real>
+			<real>686719378.49151599</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>BDE0289A-A7C2-4EB7-8088-995501BDD58F</string>
+			<string>F7DF5FF8-ADB1-4DF8-8CED-0E55CD89DD6F</string>
 		</dict>
-		<key>C179FFF3-C2C5-4CF1-A6AD-A4C6B388E0CD</key>
+		<key>F995C004-E25F-44A3-BA70-2FF59E2DAF4E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1953,75 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>C179FFF3-C2C5-4CF1-A6AD-A4C6B388E0CD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676710.70105398</real>
-			<key>timeStoppedRecording</key>
-			<real>686676715.10168099</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>C179FFF3-C2C5-4CF1-A6AD-A4C6B388E0CD</string>
-		</dict>
-		<key>CAE74A52-A550-4508-8EB2-C90B163F480D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CAE74A52-A550-4508-8EB2-C90B163F480D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632089.47118199</real>
-			<key>timeStoppedRecording</key>
-			<real>686632089.86760104</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>CAE74A52-A550-4508-8EB2-C90B163F480D</string>
-		</dict>
-		<key>CC1A4197-57FE-46B6-9050-39F24290A684</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CC1A4197-57FE-46B6-9050-39F24290A684.xcactivitylog</string>
+			<string>F995C004-E25F-44A3-BA70-2FF59E2DAF4E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2038,421 +712,13 @@
 			<key>signature</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>timeStartedRecording</key>
-			<real>686673613.96772206</real>
+			<real>686719286.16383398</real>
 			<key>timeStoppedRecording</key>
-			<real>686673615.03498805</real>
+			<real>686719294.64254105</real>
 			<key>title</key>
 			<string>Build prediktive-rouse-challenge</string>
 			<key>uniqueIdentifier</key>
-			<string>CC1A4197-57FE-46B6-9050-39F24290A684</string>
-		</dict>
-		<key>CDB94FFA-C74D-4B13-8C6A-6B993AB08144</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CDB94FFA-C74D-4B13-8C6A-6B993AB08144.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678576.52696002</real>
-			<key>timeStoppedRecording</key>
-			<real>686678578.16970897</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>CDB94FFA-C74D-4B13-8C6A-6B993AB08144</string>
-		</dict>
-		<key>CEA0F211-1ABB-40DB-A226-40024DCA003E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CEA0F211-1ABB-40DB-A226-40024DCA003E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632009.94139504</real>
-			<key>timeStoppedRecording</key>
-			<real>686632013.99706805</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>CEA0F211-1ABB-40DB-A226-40024DCA003E</string>
-		</dict>
-		<key>D0A7CEA4-1CFE-48E1-8766-149CAE08D58A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D0A7CEA4-1CFE-48E1-8766-149CAE08D58A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676854.22423506</real>
-			<key>timeStoppedRecording</key>
-			<real>686676854.81778002</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>D0A7CEA4-1CFE-48E1-8766-149CAE08D58A</string>
-		</dict>
-		<key>D6D6B010-29E6-4194-9B87-1F6D515E2DA4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D6D6B010-29E6-4194-9B87-1F6D515E2DA4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686684080.96435297</real>
-			<key>timeStoppedRecording</key>
-			<real>686684082.16516995</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>D6D6B010-29E6-4194-9B87-1F6D515E2DA4</string>
-		</dict>
-		<key>E0B934AA-92E4-458C-BE6E-3D86D94E528B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E0B934AA-92E4-458C-BE6E-3D86D94E528B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686632288.62233806</real>
-			<key>timeStoppedRecording</key>
-			<real>686632289.20634198</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>E0B934AA-92E4-458C-BE6E-3D86D94E528B</string>
-		</dict>
-		<key>E0CBFC2B-11F8-4992-B89B-A6A177F06EDE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E0CBFC2B-11F8-4992-B89B-A6A177F06EDE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682770.35495901</real>
-			<key>timeStoppedRecording</key>
-			<real>686682771.48767102</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>E0CBFC2B-11F8-4992-B89B-A6A177F06EDE</string>
-		</dict>
-		<key>E44B1AA0-DC3E-49F7-87BA-1C4E5C3B6483</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>E44B1AA0-DC3E-49F7-87BA-1C4E5C3B6483.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686678211.64555299</real>
-			<key>timeStoppedRecording</key>
-			<real>686678212.84760797</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>E44B1AA0-DC3E-49F7-87BA-1C4E5C3B6483</string>
-		</dict>
-		<key>EF87A15A-77F3-4318-8C14-D58AF2A787E8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EF87A15A-77F3-4318-8C14-D58AF2A787E8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686676763.37370706</real>
-			<key>timeStoppedRecording</key>
-			<real>686676764.007918</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>EF87A15A-77F3-4318-8C14-D58AF2A787E8</string>
-		</dict>
-		<key>F77EC92B-6EC6-4696-9E49-0B2EF1D2FB96</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F77EC92B-6EC6-4696-9E49-0B2EF1D2FB96.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686683504.47552705</real>
-			<key>timeStoppedRecording</key>
-			<real>686683510.50562799</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>F77EC92B-6EC6-4696-9E49-0B2EF1D2FB96</string>
-		</dict>
-		<key>FCA53B42-824D-476A-95D2-5C4366A9B6B5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FCA53B42-824D-476A-95D2-5C4366A9B6B5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686684021.02734196</real>
-			<key>timeStoppedRecording</key>
-			<real>686684022.11567104</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>FCA53B42-824D-476A-95D2-5C4366A9B6B5</string>
-		</dict>
-		<key>FE1CBD82-6385-40E5-B34C-EDCEF1DFF210</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FE1CBD82-6385-40E5-B34C-EDCEF1DFF210.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686682506.86747503</real>
-			<key>timeStoppedRecording</key>
-			<real>686682507.09312797</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>FE1CBD82-6385-40E5-B34C-EDCEF1DFF210</string>
-		</dict>
-		<key>FFF8C3A4-08E1-4275-9905-AF17842D7D60</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FFF8C3A4-08E1-4275-9905-AF17842D7D60.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>prediktive-rouse-challenge project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>prediktive-rouse-challenge</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>timeStartedRecording</key>
-			<real>686677807.73318601</real>
-			<key>timeStoppedRecording</key>
-			<real>686677808.24666905</real>
-			<key>title</key>
-			<string>Build prediktive-rouse-challenge</string>
-			<key>uniqueIdentifier</key>
-			<string>FFF8C3A4-08E1-4275-9905-AF17842D7D60</string>
+			<string>F995C004-E25F-44A3-BA70-2FF59E2DAF4E</string>
 		</dict>
 	</dict>
 </dict>
